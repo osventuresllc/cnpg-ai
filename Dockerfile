@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.11
+# syntax=docker/dockerfile:1.12
 # This image builds an AI-ready PostgreSQL database with TimescaleDB, pgvector, and pgvectorscale extensions
 
 # Global build arguments
