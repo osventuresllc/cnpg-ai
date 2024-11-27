@@ -2,7 +2,7 @@
 # This image builds an AI-ready PostgreSQL database with TimescaleDB, pgvector, and pgvectorscale extensions
 
 # Global build arguments
-ARG CLOUDNATIVEPG_VERSION=16.5-1
+ARG CLOUDNATIVEPG_VERSION=16.6-5
 ARG POSTGRES_VERSION=16
 ARG TIMESCALE_VERSION=2.17.2
 ARG PGVECTOR_VERSION=0.8.0
